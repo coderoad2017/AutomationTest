@@ -1,11 +1,11 @@
 {
-  "code" : [ "AUTO466570755VIOT" ],
-  "name" : [ "COMMIT_REPORT_AUTO466570755VIOT" ],
-  "description" : [ "TAG_AUTO700455125UPGM" ],
+  "code" : [ "AUTO466570755VIOT", "AUTO715703484IKVP" ],
+  "name" : [ "COMMIT_REPORT_AUTO466570755VIOT", "COMMIT_REPORT_AUTO715703484IKVP" ],
+  "description" : [ "TAG_AUTO700455125UPGM", "TAG_AUTO648669239DDGN" ],
   "source" : [ "10.100.0.155" ],
   "type" : [ "ReportDefinition" ],
   "tenant" : [ ">MOJIX>SM" ],
-  "tags" : [ "TAG:TAG_AUTO700455125UPGM", "TAG_AUTO928121660NIOL" ],
+  "tags" : [ "TAG:TAG_AUTO700455125UPGM", "TAG_AUTO928121660NIOL", "TAG_AUTO648669239DDGN" ],
   "committer" : [ "root" ],
   "author" : [ "TESTUSER1" ]
 }
