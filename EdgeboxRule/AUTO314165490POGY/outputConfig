@@ -1,0 +1,1 @@
+{"host":"10.100.0.155","port":1883,"topic":"MQTTAuto","mqtt-body":"The mqtt message was sent. Serial Number: ${serialNumber}"}
