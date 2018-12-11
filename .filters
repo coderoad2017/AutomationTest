@@ -5,7 +5,7 @@
   "source" : [ "10.100.0.155" ],
   "type" : [ "ReportDefinition" ],
   "tenant" : [ ">MOJIX>SM" ],
-  "tags" : [ "TAG:TAG_AUTO700455125UPGM", "TAG_AUTO928121660NIOL", "TAG_AUTO648669239DDGN" ],
+  "tags" : [ "TAG:TAG_AUTO700455125UPGM", "TAG_AUTO928121660NIOL", "TAG_AUTO648669239DDGN", "TAG_AUTO648669239DDGN", "TAG_AUTO983888705IXLR" ],
   "committer" : [ "root" ],
   "author" : [ "TESTUSER1" ]
 }
